@@ -1,0 +1,87 @@
+[
+  {
+    "tag": "MACHINE_FAILURE",
+    "text": "Machine Failure",
+    "color": "#ff6b6b",
+    "items": ["Motor Malfunction", "Sensor Error", "Hydraulic Leak", "Belt Failure", "Bearing Wear", "Overheating"]
+  },
+  {
+    "tag": "PLANNED_MAINTENANCE",
+    "text": "Planned Maintenance",
+    "color": "#4ecdc4",
+    "items": ["Preventive Maintenance", "Calibration", "Software Update", "Cleaning", "Lubrication", "Inspection"]
+  },
+  {
+    "tag": "MATERIAL_SHORTAGE",
+    "text": "Material Shortage",
+    "color": "#ffa500",
+    "items": ["Raw Material Unavailable", "Supplier Delay", "Quality Issues", "Wrong Specification", "Inventory Shortage"]
+  },
+  {
+    "tag": "OPERATOR_ISSUE",
+    "text": "Operator Issue",
+    "color": "#95e1d3",
+    "items": ["Training Required", "Absence", "Shift Change", "Setup Time", "Break Time", "Meeting"]
+  },
+  {
+    "tag": "QUALITY_CONTROL",
+    "text": "Quality Control",
+    "color": "#9b59b6",
+    "items": ["Product Defect", "Rework Required", "Testing Failure", "Specification Change", "Customer Complaint"]
+  },
+  {
+    "tag": "POWER_OUTAGE",
+    "text": "Power Outage",
+    "color": "#e74c3c",
+    "items": ["Electrical Failure", "Grid Outage", "Generator Issue", "UPS Failure", "Circuit Breaker Trip"]
+  },
+  {
+    "tag": "TOOLING_ISSUE",
+    "text": "Tooling Issue",
+    "color": "#f39c12",
+    "items": ["Tool Wear", "Tool Breakage", "Wrong Tool", "Tool Setup", "Tool Calibration"]
+  },
+  {
+    "tag": "ENVIRONMENTAL",
+    "text": "Environmental",
+    "color": "#27ae60",
+    "items": ["Temperature Issue", "Humidity Problem", "Contamination", "Weather Condition", "Air Quality"]
+  },
+  {
+    "tag": "POWER_OUTAGE",
+    "text": "Power Outage",
+    "color": "#e74c3c",
+    "items": ["Electrical Failure", "Grid Outage", "Generator Issue", "UPS Failure", "Circuit Breaker Trip"]
+  },
+  {
+    "tag": "TOOLING_ISSUE",
+    "text": "Tooling Issue",
+    "color": "#f39c12",
+    "items": ["Tool Wear", "Tool Breakage", "Wrong Tool", "Tool Setup", "Tool Calibration"]
+  },
+  {
+    "tag": "ENVIRONMENTAL",
+    "text": "Environmental",
+    "color": "#27ae60",
+    "items": ["Temperature Issue", "Humidity Problem", "Contamination", "Weather Condition", "Air Quality",
+{
+    "tag": "POWER_OUTAGE",
+    "text": "Power Outage",
+    "color": "#e74c3c",
+    "items": ["Electrical Failure", "Grid Outage", "Generator Issue", "UPS Failure", "Circuit Breaker Trip"]
+  },
+  {
+    "tag": "TOOLING_ISSUE",
+    "text": "Tooling Issue",
+    "color": "#f39c12",
+    "items": ["Tool Wear", "Tool Breakage", "Wrong Tool", "Tool Setup", "Tool Calibration"]
+  },
+  {
+    "tag": "ENVIRONMENTAL",
+    "text": "Environmental",
+    "color": "#27ae60",
+    "items": ["Temperature Issue", "Humidity Problem", "Contamination", "Weather Condition", "Air Quality"]
+  }
+]
+  }
+]
